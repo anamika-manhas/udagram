@@ -22,5 +22,5 @@ eb deploy
 ```
 
 Endpoint:
-http://devudacityudagramtest-env.kwq9rqwgpr.ap-south-1.elasticbeanstalk.com/filteredimage?image_url=
-http://devudacityudagramtest-env.kwq9rqwgpr.ap-south-1.elasticbeanstalk.com/filteredimage?image_url=https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg
+http://devudacityudagramtest-env.ap-south-1.elasticbeanstalk.com/filteredimage?image_url=
+http://devudacityudagramtest-env.ap-south-1.elasticbeanstalk.com/filteredimage?image_url=https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg
